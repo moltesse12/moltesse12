@@ -1,4 +1,13 @@
-# 👋 À propos de moi<br><br>Salut ! Je suis un développeur passionné spécialisé en **JavaScript**, avec une forte expertise sur l’écosystème **React.js**, **Node.js/Express**, et **MongoDB**.  <br>Je travaille actuellement sur plusieurs projets web modernes, notamment des sites **e-commerce complets** avec des fonctionnalités avancées comme la gestion des utilisateurs, les paiements, les avis clients et l’internationalisation (i18n).<br><br>🌍 Je m'intéresse particulièrement à la **création de solutions numériques robustes pour l’Afrique**, et j’ai lancé des projets ambitieux comme **LuxuryAfrica**, une plateforme e-commerce responsive et évolutive.  <br>Je m’appuie sur des outils modernes comme **Vercel**, **React Router**, **Redux/Context API**, et j’intègre le **SEO**, les **réseaux sociaux**, et **Google Analytics** pour maximiser la portée.<br><br>🎨 J’accorde une grande importance à l’**expérience utilisateur**, avec une préférence pour les designs **clairs/sombres**, minimalistes, et professionnels, en utilisant des polices distinctives comme *Nomark*.<br><br>📚 En parallèle, je me forme continuellement sur des sujets comme l’**administration réseau (Windows Server, GNS3, VLANs)** et le **développement mobile (React Native)**.<br><br>📫 **Contact** : ouvert aux collaborations sur des projets web, des solutions pour PME, ou des idées innovantes pour la transformation digitale en Afrique.<br>
+# 👋 À propos de moi
+
+Développeur passionné spécialisé en **JavaScript**, avec une expertise en **React.js**, **Node.js/Express** et **MongoDB**.  
+Je crée des sites web modernes, notamment des plateformes **e-commerce** complètes et responsives comme **LuxuryAfrica**.
+
+🌍 Mon objectif : proposer des solutions numériques innovantes pour l’Afrique.  
+🎨 Design clair/sombre, SEO, performance et expérience utilisateur sont au cœur de mes projets.  
+📱 Je m’intéresse aussi au **développement mobile (React Native)** et à l’**administration réseau (GNS3, Windows Server)**.
+
+📫 **Contact** : ouvert aux collaborations autour du web, du mobile et de la tech en Afrique.
 
 
 # 💻 Tech Stack:
